@@ -27,7 +27,7 @@
 
 - ⚡ Fun fact: I have played badminton for 17 years.
 
-### My linked:
+### My Linkedin:
 
 https://www.linkedin.com/in/chris-doan-b05ab6b5
 
