@@ -1,4 +1,4 @@
-## Hi there, I'm Chris 👋 
+## Hi there, I'm Chris 👋. 
 
 ## I'm a bioinformatician, former pharmacist, geneticist, and a lecturer.
 
