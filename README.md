@@ -2,10 +2,6 @@
 
 ## I'm a bioinformatician, former pharmacist, geneticist, and a lecturer.
 
-How I came to bioinformatics is a long story of finding the overlap in the Venn diagram of my life goal and what I am innate good at with a little luck factor in the end. By exploring the journey in my professional life, I became a wet-dry hybrid pharmacist-lecturer currently focusing on genetics and genomics. 
-
-As a bioinformatician and data scientist, I am passionate about using computational tools to analyze NGS data, protein sequences, multi-omics data, and other data types. I have two years of programming with R, Python, and Bash, five years in pharmacy, and a year and a half of study of human genetics with a career goal to support scientists in finding treatments for aging-related diseases, cancer, and other diseases.
-
 - ⚡ Fun fact: I have played badminton for 17 years.
 
 ### My Linkedin:
