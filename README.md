@@ -6,7 +6,7 @@
 
 ### My Linkedin:
 
-https://www.linkedin.com/in/chris-doan-b05ab6b5
+https://www.linkedin.com/in/chris-ph-doan
 
 ### Languages and Tools:
 <img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" style="padding-right:10px;" />
